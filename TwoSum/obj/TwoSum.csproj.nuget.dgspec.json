@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\TwoSum\\TwoSum.csproj": {}
+    "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\TwoSum\\TwoSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\TwoSum\\TwoSum.csproj": {
+    "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\TwoSum\\TwoSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\TwoSum\\TwoSum.csproj",
+        "projectUniqueName": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\TwoSum\\TwoSum.csproj",
         "projectName": "TwoSum",
-        "projectPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\TwoSum\\TwoSum.csproj",
-        "packagesPath": "C:\\Users\\Yemeth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\TwoSum\\obj\\",
+        "projectPath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\TwoSum\\TwoSum.csproj",
+        "packagesPath": "C:\\Users\\Baisangur_Yunussov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\TwoSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yemeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Baisangur_Yunussov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

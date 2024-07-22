@@ -1,0 +1,11 @@
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.deps.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\refint\AddTwoNumbers.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\AddTwoNumbers\obj\Debug\net8.0\ref\AddTwoNumbers.dll

@@ -1,0 +1,11 @@
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\bin\Debug\net8.0\TwoSum.deps.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\bin\Debug\net8.0\TwoSum.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\bin\Debug\net8.0\TwoSum.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfo.cs
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\refint\TwoSum.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\TwoSum\obj\Debug\net8.0\ref\TwoSum.dll

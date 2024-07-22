@@ -1,0 +1,11 @@
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\bin\Debug\net8.0\RomanToInt.deps.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\bin\Debug\net8.0\RomanToInt.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\bin\Debug\net8.0\RomanToInt.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\RomanToInt.AssemblyInfoInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\RomanToInt.AssemblyInfo.cs
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\RomanToInt.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\refint\RomanToInt.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\RomanToInt.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\RomanToInt\obj\Debug\net8.0\ref\RomanToInt.dll
