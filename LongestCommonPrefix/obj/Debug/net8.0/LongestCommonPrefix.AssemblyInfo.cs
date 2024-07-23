@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongestCommonPrefix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9f890de408dab32f4be40370bd6b7f8b37bd7b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+215314efb8686467e86a848081004c68ef0776e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongestCommonPrefix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongestCommonPrefix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
