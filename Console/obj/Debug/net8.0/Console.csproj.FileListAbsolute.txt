@@ -3,8 +3,6 @@ C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\Console.deps.
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\Console.runtimeconfig.json
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\Console.dll
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\Console.pdb
-C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\MergeTwoSortedList.dll
-C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\MergeTwoSortedList.pdb
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.csproj.AssemblyReference.cache
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
@@ -17,3 +15,5 @@ C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\refint\Consol
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.pdb
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\ref\Console.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\RemoveElement.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\RemoveElement.pdb

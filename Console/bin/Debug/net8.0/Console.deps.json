@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v8.0": {
       "Console/1.0.0": {
         "dependencies": {
-          "MergeTwoSortedList": "1.0.0"
+          "RemoveElement": "1.0.0"
         },
         "runtime": {
           "Console.dll": {}
         }
       },
-      "MergeTwoSortedList/1.0.0": {
+      "RemoveElement/1.0.0": {
         "runtime": {
-          "MergeTwoSortedList.dll": {}
+          "RemoveElement.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MergeTwoSortedList/1.0.0": {
+    "RemoveElement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

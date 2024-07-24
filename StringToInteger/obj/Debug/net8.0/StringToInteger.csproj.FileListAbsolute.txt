@@ -1,0 +1,12 @@
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\bin\Debug\net8.0\StringToInteger.deps.json
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\bin\Debug\net8.0\StringToInteger.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\bin\Debug\net8.0\StringToInteger.pdb
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\StringToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\StringToInteger.AssemblyInfoInputs.cache
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\StringToInteger.AssemblyInfo.cs
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\StringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\StringToInteger.sourcelink.json
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\StringToInteger.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\refint\StringToInteger.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\StringToInteger.pdb
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\StringToInteger\obj\Debug\net8.0\ref\StringToInteger.dll

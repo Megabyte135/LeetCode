@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MergeTwoSortedList\MergeTwoSortedList.csproj" />
+    <ProjectReference Include="..\RemoveElement\RemoveElement.csproj" />
   </ItemGroup>
 
 </Project>

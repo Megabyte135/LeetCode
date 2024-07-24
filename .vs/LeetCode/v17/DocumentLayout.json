@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C881387-6895-4BC8-93F0-E4E237B84242}|MergeTwoSortedList\\MergeTwoSortedList.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\mergetwosortedlist\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{2C881387-6895-4BC8-93F0-E4E237B84242}|MergeTwoSortedList\\MergeTwoSortedList.csproj|solutionrelative:mergetwosortedlist\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C881387-6895-4BC8-93F0-E4E237B84242}|MergeTwoSortedList\\MergeTwoSortedList.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\mergetwosortedlist\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C881387-6895-4BC8-93F0-E4E237B84242}|MergeTwoSortedList\\MergeTwoSortedList.csproj|solutionrelative:mergetwosortedlist\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A3D6309-0104-44C9-BBFB-EE9DB3650518}|RemoveElement\\RemoveElement.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\removeelement\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3D6309-0104-44C9-BBFB-EE9DB3650518}|RemoveElement\\RemoveElement.csproj|solutionrelative:removeelement\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0561C885-A7E9-4DFF-BFE7-E30E07D3E2CD}|Console\\Console.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0561C885-A7E9-4DFF-BFE7-E30E07D3E2CD}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50AD2415-4C64-4121-8C9A-991A2F4DB425}|Palindrome Number\\PalindromeNumber.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\palindrome number\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50AD2415-4C64-4121-8C9A-991A2F4DB425}|Palindrome Number\\PalindromeNumber.csproj|solutionrelative:palindrome number\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57AE6CF7-B978-49B2-ABAC-A7D30DF436A1}|TwoSum\\TwoSum.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\twosum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57AE6CF7-B978-49B2-ABAC-A7D30DF436A1}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A164FB8F-C006-4F04-A7D5-368A9BDA7B19}|RomanToInt\\RomanToInt.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\romantoint\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A164FB8F-C006-4F04-A7D5-368A9BDA7B19}|RomanToInt\\RomanToInt.csproj|solutionrelative:romantoint\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MergeTwoSortedList\\README.md",
-              "RelativeDocumentMoniker": "MergeTwoSortedList\\README.md",
-              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MergeTwoSortedList\\README.md",
-              "RelativeToolTip": "MergeTwoSortedList\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-07-23T11:26:50.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MergeTwoSortedList\\Solution.cs",
-              "RelativeDocumentMoniker": "MergeTwoSortedList\\Solution.cs",
-              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MergeTwoSortedList\\Solution.cs",
-              "RelativeToolTip": "MergeTwoSortedList\\Solution.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:11:50.027Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -76,54 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Palindrome Number\\Solution.cs",
-              "RelativeDocumentMoniker": "Palindrome Number\\Solution.cs",
-              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Palindrome Number\\Solution.cs",
-              "RelativeToolTip": "Palindrome Number\\Solution.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:11:44.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\TwoSum\\Solution.cs",
-              "RelativeDocumentMoniker": "TwoSum\\Solution.cs",
-              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\TwoSum\\Solution.cs",
-              "RelativeToolTip": "TwoSum\\Solution.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:11:31.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Console\\Program.cs",
               "RelativeDocumentMoniker": "Console\\Program.cs",
               "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Console\\Program.cs",
               "RelativeToolTip": "Console\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:09:33.727Z",
+              "WhenOpened": "2024-07-24T13:14:15.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RomanToInt\\Solution.cs",
-              "RelativeDocumentMoniker": "RomanToInt\\Solution.cs",
-              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RomanToInt\\Solution.cs",
-              "RelativeToolTip": "RomanToInt\\Solution.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RemoveElement\\Solution.cs",
+              "RelativeDocumentMoniker": "RemoveElement\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RemoveElement\\Solution.cs",
+              "RelativeToolTip": "RemoveElement\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T08:06:37.245Z",
+              "WhenOpened": "2024-07-24T13:14:04.218Z",
               "EditorCaption": ""
             }
           ]
