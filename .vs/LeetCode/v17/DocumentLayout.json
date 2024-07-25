@@ -66,8 +66,7 @@
               "RelativeToolTip": "LongestSubstringWithoutRepeating\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-07-22T12:05:03.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T12:05:03.03Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "LongestSubstringWithoutRepeating\\Solution.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:05:00.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T12:05:00.366Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "LongestCommonPrefix\\Solution.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:03:01.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T12:03:01.6Z"
             },
             {
               "$type": "Document",
@@ -103,7 +100,7 @@
               "RelativeDocumentMoniker": "LongestCommonPrefix\\README.md",
               "ToolTip": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\LongestCommonPrefix\\README.md",
               "RelativeToolTip": "LongestCommonPrefix\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-07-22T12:01:41.292Z",
               "EditorCaption": ""
@@ -179,10 +176,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T08:06:37.245Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             }
           ]
         }
