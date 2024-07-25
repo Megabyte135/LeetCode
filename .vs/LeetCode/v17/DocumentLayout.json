@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{874C7902-A086-4518-9D8F-4DCE96AB8EC9}|SearchInsert\\SearchInsert.csproj|c:\\users\\baisangur_yunussov\\onedrive - sgs\\desktop\\leetcode\\searchinsert\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{874C7902-A086-4518-9D8F-4DCE96AB8EC9}|SearchInsert\\SearchInsert.csproj|solutionrelative:searchinsert\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C7902-A086-4518-9D8F-4DCE96AB8EC9}|SearchInsert\\SearchInsert.csproj|c:\\users\\baisangur_yunussov\\onedrive - sgs\\desktop\\leetcode\\searchinsert\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C7902-A086-4518-9D8F-4DCE96AB8EC9}|SearchInsert\\SearchInsert.csproj|solutionrelative:searchinsert\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FB9E330-482F-4FAC-8826-97BA0B3EEC81}|LongestCommonPrefix\\LongestCommonPrefix.csproj|c:\\users\\baisangur_yunussov\\onedrive - sgs\\desktop\\leetcode\\longestcommonprefix\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{3FB9E330-482F-4FAC-8826-97BA0B3EEC81}|LongestCommonPrefix\\LongestCommonPrefix.csproj|solutionrelative:longestcommonprefix\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +66,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\SearchInsert\\README.md",
+              "RelativeDocumentMoniker": "SearchInsert\\README.md",
+              "ToolTip": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\SearchInsert\\README.md",
+              "RelativeToolTip": "SearchInsert\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-25T08:26:07.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\SearchInsert\\Solution.cs",
+              "RelativeDocumentMoniker": "SearchInsert\\Solution.cs",
+              "ToolTip": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\SearchInsert\\Solution.cs",
+              "RelativeToolTip": "SearchInsert\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:25:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\LongestSubstringWithoutRepeating\\README.md",
               "RelativeDocumentMoniker": "LongestSubstringWithoutRepeating\\README.md",
@@ -70,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\LongestSubstringWithoutRepeating\\Solution.cs",
               "RelativeDocumentMoniker": "LongestSubstringWithoutRepeating\\Solution.cs",
@@ -82,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\LongestCommonPrefix\\Solution.cs",
               "RelativeDocumentMoniker": "LongestCommonPrefix\\Solution.cs",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\LongestCommonPrefix\\README.md",
               "RelativeDocumentMoniker": "LongestCommonPrefix\\README.md",
@@ -107,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\Palindrome Number\\README.md",
               "RelativeDocumentMoniker": "Palindrome Number\\README.md",
@@ -119,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\Palindrome Number\\Solution.cs",
               "RelativeDocumentMoniker": "Palindrome Number\\Solution.cs",
@@ -131,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\TwoSum\\README.md",
               "RelativeDocumentMoniker": "TwoSum\\README.md",
@@ -143,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\TwoSum\\Solution.cs",
               "RelativeDocumentMoniker": "TwoSum\\Solution.cs",
@@ -155,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\RomanToInt\\README.md",
               "RelativeDocumentMoniker": "RomanToInt\\README.md",
@@ -167,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Solution.cs",
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\RomanToInt\\Solution.cs",
               "RelativeDocumentMoniker": "RomanToInt\\Solution.cs",
