@@ -1,4 +1,4 @@
-﻿int[] nums = [0, 1, 2, 2, 3, 0, 4, 2];
+﻿int[] nums = [9];
 Solution solution = new Solution();
 
-Console.WriteLine(solution.RemoveElement(nums, 2));
+Console.WriteLine(solution.PlusOne(nums));

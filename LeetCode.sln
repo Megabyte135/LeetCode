@@ -21,9 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedList", "Merge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "Console\Console.csproj", "{0561C885-A7E9-4DFF-BFE7-E30E07D3E2CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToInteger", "StringToInteger\StringToInteger.csproj", "{1A1DA272-5C0C-4E7B-9C63-3985AF381C66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringToInteger", "StringToInteger\StringToInteger.csproj", "{1A1DA272-5C0C-4E7B-9C63-3985AF381C66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{1A3D6309-0104-44C9-BBFB-EE9DB3650518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{1A3D6309-0104-44C9-BBFB-EE9DB3650518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{9F478F1C-4500-46F4-8C18-883C842D961B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{3073FD38-87E0-4595-8ED3-030E63072AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{1A3D6309-0104-44C9-BBFB-EE9DB3650518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A3D6309-0104-44C9-BBFB-EE9DB3650518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A3D6309-0104-44C9-BBFB-EE9DB3650518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F478F1C-4500-46F4-8C18-883C842D961B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F478F1C-4500-46F4-8C18-883C842D961B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F478F1C-4500-46F4-8C18-883C842D961B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F478F1C-4500-46F4-8C18-883C842D961B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3073FD38-87E0-4595-8ED3-030E63072AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3073FD38-87E0-4595-8ED3-030E63072AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3073FD38-87E0-4595-8ED3-030E63072AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3073FD38-87E0-4595-8ED3-030E63072AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

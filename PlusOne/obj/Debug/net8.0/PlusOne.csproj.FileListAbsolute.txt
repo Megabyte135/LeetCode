@@ -1,0 +1,12 @@
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\bin\Debug\net8.0\PlusOne.deps.json
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\bin\Debug\net8.0\PlusOne.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\bin\Debug\net8.0\PlusOne.pdb
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfoInputs.cache
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfo.cs
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\PlusOne.csproj.CoreCompileInputs.cache
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\PlusOne.sourcelink.json
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\PlusOne.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\refint\PlusOne.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\PlusOne.pdb
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\PlusOne\obj\Debug\net8.0\ref\PlusOne.dll

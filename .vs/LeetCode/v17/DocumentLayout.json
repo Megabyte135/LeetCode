@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A3D6309-0104-44C9-BBFB-EE9DB3650518}|RemoveElement\\RemoveElement.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\removeelement\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3D6309-0104-44C9-BBFB-EE9DB3650518}|RemoveElement\\RemoveElement.csproj|solutionrelative:removeelement\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3073FD38-87E0-4595-8ED3-030E63072AED}|PlusOne\\PlusOne.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\plusone\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073FD38-87E0-4595-8ED3-030E63072AED}|PlusOne\\PlusOne.csproj|solutionrelative:plusone\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0561C885-A7E9-4DFF-BFE7-E30E07D3E2CD}|Console\\Console.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,20 +42,20 @@
               "RelativeToolTip": "Console\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:14:15.709Z",
+              "WhenOpened": "2024-07-26T10:08:54.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RemoveElement\\Solution.cs",
-              "RelativeDocumentMoniker": "RemoveElement\\Solution.cs",
-              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RemoveElement\\Solution.cs",
-              "RelativeToolTip": "RemoveElement\\Solution.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\Solution.cs",
+              "RelativeDocumentMoniker": "PlusOne\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\Solution.cs",
+              "RelativeToolTip": "PlusOne\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:14:04.218Z",
+              "WhenOpened": "2024-07-26T10:08:48.692Z",
               "EditorCaption": ""
             }
           ]
