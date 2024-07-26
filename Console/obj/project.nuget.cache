@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "tfjDKP1J3iE=",
+=======
+  "dgSpecHash": "a3RUbUexLSE=",
+>>>>>>> ba8fe6b994da18a842c1af1c661c8217257860e5
   "success": true,
-  "projectFilePath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Console\\Console.csproj",
+  "projectFilePath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\Console\\Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
