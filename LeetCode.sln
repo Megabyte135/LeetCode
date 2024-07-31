@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringToInteger", "StringTo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{1A3D6309-0104-44C9-BBFB-EE9DB3650518}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{33013755-C727-434E-A818-B38B7CDFBE9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{33013755-C727-434E-A818-B38B7CDFBE9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsert", "SearchInsert\SearchInsert.csproj", "{874C7902-A086-4518-9D8F-4DCE96AB8EC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsert", "SearchInsert\SearchInsert.csproj", "{874C7902-A086-4518-9D8F-4DCE96AB8EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{F00937E7-1508-4A49-BE0E-6337794F6F56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{874C7902-A086-4518-9D8F-4DCE96AB8EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874C7902-A086-4518-9D8F-4DCE96AB8EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874C7902-A086-4518-9D8F-4DCE96AB8EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00937E7-1508-4A49-BE0E-6337794F6F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00937E7-1508-4A49-BE0E-6337794F6F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00937E7-1508-4A49-BE0E-6337794F6F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00937E7-1508-4A49-BE0E-6337794F6F56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
