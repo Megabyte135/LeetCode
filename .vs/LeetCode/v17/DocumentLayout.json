@@ -3,16 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F00937E7-1508-4A49-BE0E-6337794F6F56}|LongestPalindromicSubstring\\LongestPalindromicSubstring.csproj|c:\\users\\baisangur_yunussov\\onedrive - sgs\\desktop\\leetcode\\longestpalindromicsubstring\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00937E7-1508-4A49-BE0E-6337794F6F56}|LongestPalindromicSubstring\\LongestPalindromicSubstring.csproj|solutionrelative:longestpalindromicsubstring\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB9E330-482F-4FAC-8826-97BA0B3EEC81}|LongestCommonPrefix\\LongestCommonPrefix.csproj|c:\\users\\baisangur_yunussov\\onedrive - sgs\\desktop\\leetcode\\longestcommonprefix\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{3FB9E330-482F-4FAC-8826-97BA0B3EEC81}|LongestCommonPrefix\\LongestCommonPrefix.csproj|solutionrelative:longestcommonprefix\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{3073FD38-87E0-4595-8ED3-030E63072AED}|PlusOne\\PlusOne.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\plusone\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073FD38-87E0-4595-8ED3-030E63072AED}|PlusOne\\PlusOne.csproj|solutionrelative:plusone\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
       "AbsoluteMoniker": "D:0:0:{874C7902-A086-4518-9D8F-4DCE96AB8EC9}|SearchInsert\\SearchInsert.csproj|c:\\users\\baisangur_yunussov\\onedrive - sgs\\desktop\\leetcode\\searchinsert\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{874C7902-A086-4518-9D8F-4DCE96AB8EC9}|SearchInsert\\SearchInsert.csproj|solutionrelative:searchinsert\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+>>>>>>> ba8fe6b994da18a842c1af1c661c8217257860e5
     },
     {
       "AbsoluteMoniker": "D:0:0:{874C7902-A086-4518-9D8F-4DCE96AB8EC9}|SearchInsert\\SearchInsert.csproj|c:\\users\\baisangur_yunussov\\onedrive - sgs\\desktop\\leetcode\\searchinsert\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -104,7 +101,12 @@
               "RelativeToolTip": "SearchInsert\\Solution.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:25:41.946Z"
+<<<<<<< HEAD
+              "WhenOpened": "2024-07-26T10:08:54.154Z",
+=======
+              "WhenOpened": "2024-07-25T08:25:41.946Z",
+>>>>>>> ba8fe6b994da18a842c1af1c661c8217257860e5
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,6 +124,15 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Solution.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\Solution.cs",
+              "RelativeDocumentMoniker": "PlusOne\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\Solution.cs",
+              "RelativeToolTip": "PlusOne\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:08:48.692Z",
+=======
               "DocumentMoniker": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\LongestSubstringWithoutRepeating\\Solution.cs",
               "RelativeDocumentMoniker": "LongestSubstringWithoutRepeating\\Solution.cs",
               "ToolTip": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\LongestSubstringWithoutRepeating\\Solution.cs",
@@ -153,6 +164,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-07-22T12:01:41.292Z",
+>>>>>>> ba8fe6b994da18a842c1af1c661c8217257860e5
               "EditorCaption": ""
             },
             {

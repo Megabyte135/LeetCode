@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "RemoveElement/1.0.0": {
+      "PlusOne/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/RemoveElement.dll": {}
+          "bin/placeholder/PlusOne.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RemoveElement.dll": {}
+          "bin/placeholder/PlusOne.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "RemoveElement/1.0.0": {
+    "PlusOne/1.0.0": {
       "type": "project",
-      "path": "../RemoveElement/RemoveElement.csproj",
-      "msbuildProject": "../RemoveElement/RemoveElement.csproj"
+      "path": "../PlusOne/PlusOne.csproj",
+      "msbuildProject": "../PlusOne/PlusOne.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "RemoveElement >= 1.0.0"
+      "PlusOne >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -59,8 +59,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
+            "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\PlusOne.csproj": {
+              "projectPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\PlusOne.csproj"
+=======
             "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\RemoveElement\\RemoveElement.csproj": {
               "projectPath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\RemoveElement\\RemoveElement.csproj"
+>>>>>>> ba8fe6b994da18a842c1af1c661c8217257860e5
             }
           }
         }

@@ -15,5 +15,5 @@ C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\refint\Consol
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.pdb
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\ref\Console.dll
-C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\RemoveElement.dll
-C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\RemoveElement.pdb
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\PlusOne.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\PlusOne.pdb
