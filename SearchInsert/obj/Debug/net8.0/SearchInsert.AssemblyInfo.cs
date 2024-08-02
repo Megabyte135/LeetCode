@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchInsert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e5a2f91fd33b45fec2474bfeee2ac0678e1f5de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+839543e2fe4a2a479b8e7394d0bc1031a0f98b9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchInsert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchInsert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
