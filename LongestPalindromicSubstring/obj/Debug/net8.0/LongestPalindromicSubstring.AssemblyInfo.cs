@@ -11,16 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SearchInsert")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LongestPalindromicSubstring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+839543e2fe4a2a479b8e7394d0bc1031a0f98b9c")]
-=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba8fe6b994da18a842c1af1c661c8217257860e5")]
->>>>>>> 2598f73382b9310933b453ea4aeb27bd92a6bd3e
-[assembly: System.Reflection.AssemblyProductAttribute("SearchInsert")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SearchInsert")]
+[assembly: System.Reflection.AssemblyProductAttribute("LongestPalindromicSubstring")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LongestPalindromicSubstring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
