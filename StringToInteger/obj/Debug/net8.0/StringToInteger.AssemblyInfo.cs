@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringToInteger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+839543e2fe4a2a479b8e7394d0bc1031a0f98b9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2efe0cc3e97f5f580c7859922ff3e54256b38600")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringToInteger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringToInteger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
