@@ -1,8 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "S+Ijd3ToE9U=",
+=======
+  "dgSpecHash": "tfjDKP1J3iE=",
+>>>>>>> 3217ed3f0a858cbe04f5cc4cad9826d53b74a1c5
   "success": true,
-  "projectFilePath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\Console\\Console.csproj",
+  "projectFilePath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Console\\Console.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Console\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
