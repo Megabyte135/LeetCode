@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PlusOne\PlusOne.csproj" />
+    <ProjectReference Include="..\ContainerWithMostWater\ContainerWithMostWater.csproj" />
   </ItemGroup>
 
 </Project>

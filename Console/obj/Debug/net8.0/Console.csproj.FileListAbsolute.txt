@@ -17,3 +17,22 @@ C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.genru
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\ref\Console.dll
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\PlusOne.dll
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\PlusOne.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.csproj.AssemblyReference.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.sourcelink.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\refint\Console.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\net8.0\Console.exe
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\net8.0\Console.deps.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\net8.0\Console.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\net8.0\Console.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\net8.0\ContainerWithMostWater.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\net8.0\ContainerWithMostWater.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.csproj.Up2Date
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\ref\Console.dll

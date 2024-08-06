@@ -1,0 +1,12 @@
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.deps.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.AssemblyInfoInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.AssemblyInfo.cs
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.sourcelink.json
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\refint\ContainerWithMostWater.dll
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.pdb
+C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\ContainerWithMostWater\obj\Debug\net8.0\ref\ContainerWithMostWater.dll
