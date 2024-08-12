@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Baisangur_Yunussov\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ext.Baisangur_Yunuss\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\PlusOne.csproj",
+      "projectUniqueName": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\PlusOne.csproj",
       "projectName": "PlusOne",
-      "projectPath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\PlusOne.csproj",
-      "packagesPath": "C:\\Users\\Baisangur_Yunussov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baisangur_Yunussov\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\obj\\",
+      "projectPath": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\PlusOne.csproj",
+      "packagesPath": "C:\\Users\\Ext.Baisangur_Yunuss\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Baisangur_Yunussov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Ext.Baisangur_Yunuss\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

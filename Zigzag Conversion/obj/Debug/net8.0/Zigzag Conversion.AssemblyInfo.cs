@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zigzag Conversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2598f73382b9310933b453ea4aeb27bd92a6bd3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd2a06d66876e19557b7c92784ee356ae883d817")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zigzag Conversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zigzag Conversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
