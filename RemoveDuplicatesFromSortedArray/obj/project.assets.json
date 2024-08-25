@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ext.Baisangur_Yunuss\\.nuget\\packages\\": {}
+    "C:\\Users\\Yemeth\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
+      "projectUniqueName": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
       "projectName": "RemoveDuplicatesFromSortedArray",
-      "projectPath": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
-      "packagesPath": "C:\\Users\\Ext.Baisangur_Yunuss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\RemoveDuplicatesFromSortedArray\\obj\\",
+      "projectPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
+      "packagesPath": "C:\\Users\\Yemeth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\RemoveDuplicatesFromSortedArray\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ext.Baisangur_Yunuss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yemeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

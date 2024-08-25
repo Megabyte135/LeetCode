@@ -1,25 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\",
+  "WorkspaceRootPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6286B1D-E22E-458B-A440-D84F8F18AD45}|SwapNodesinPairs\\SwapNodesinPairs.csproj|c:\\users\\ext.baisangur_yunuss\\onedrive - sgs\\desktop\\leetcode\\swapnodesinpairs\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0977D376-0359-4806-A14C-BB26ABC7C596}|JumpGame\\JumpGame.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\jumpgame\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0977D376-0359-4806-A14C-BB26ABC7C596}|JumpGame\\JumpGame.csproj|solutionrelative:jumpgame\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0977D376-0359-4806-A14C-BB26ABC7C596}|JumpGame\\JumpGame.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\jumpgame\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0977D376-0359-4806-A14C-BB26ABC7C596}|JumpGame\\JumpGame.csproj|solutionrelative:jumpgame\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA252CAF-D598-4D48-84BC-18F3000CD9CB}|SpiralMatrix\\SpiralMatrix.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\spiralmatrix\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA252CAF-D598-4D48-84BC-18F3000CD9CB}|SpiralMatrix\\SpiralMatrix.csproj|solutionrelative:spiralmatrix\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA252CAF-D598-4D48-84BC-18F3000CD9CB}|SpiralMatrix\\SpiralMatrix.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\spiralmatrix\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BA252CAF-D598-4D48-84BC-18F3000CD9CB}|SpiralMatrix\\SpiralMatrix.csproj|solutionrelative:spiralmatrix\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A778A64A-9EF0-4BB0-8D65-E6E2C288EB64}|MaxSubArray\\MaxSubArray.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\maxsubarray\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A778A64A-9EF0-4BB0-8D65-E6E2C288EB64}|MaxSubArray\\MaxSubArray.csproj|solutionrelative:maxsubarray\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A778A64A-9EF0-4BB0-8D65-E6E2C288EB64}|MaxSubArray\\MaxSubArray.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\maxsubarray\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A778A64A-9EF0-4BB0-8D65-E6E2C288EB64}|MaxSubArray\\MaxSubArray.csproj|solutionrelative:maxsubarray\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD87A4E2-351B-4F97-84D1-6ADF19502938}|CombinationSum\\CombinationSum.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\combinationsum\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DD87A4E2-351B-4F97-84D1-6ADF19502938}|CombinationSum\\CombinationSum.csproj|solutionrelative:combinationsum\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD87A4E2-351B-4F97-84D1-6ADF19502938}|CombinationSum\\CombinationSum.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\combinationsum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD87A4E2-351B-4F97-84D1-6ADF19502938}|CombinationSum\\CombinationSum.csproj|solutionrelative:combinationsum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9381CF-F12E-469A-9229-371E8061A079}|GenerateParenthesis\\GenerateParenthesis.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\generateparenthesis\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7C9381CF-F12E-469A-9229-371E8061A079}|GenerateParenthesis\\GenerateParenthesis.csproj|solutionrelative:generateparenthesis\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9381CF-F12E-469A-9229-371E8061A079}|GenerateParenthesis\\GenerateParenthesis.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\generateparenthesis\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9381CF-F12E-469A-9229-371E8061A079}|GenerateParenthesis\\GenerateParenthesis.csproj|solutionrelative:generateparenthesis\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0895363-1A40-4448-9057-747C154BAD37}|LetterCombinationOfAPhoneNumber\\LetterCombinationOfAPhoneNumber.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\lettercombinationofaphonenumber\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0895363-1A40-4448-9057-747C154BAD37}|LetterCombinationOfAPhoneNumber\\LetterCombinationOfAPhoneNumber.csproj|solutionrelative:lettercombinationofaphonenumber\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6286B1D-E22E-458B-A440-D84F8F18AD45}|SwapNodesinPairs\\SwapNodesinPairs.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\swapnodesinpairs\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6286B1D-E22E-458B-A440-D84F8F18AD45}|SwapNodesinPairs\\SwapNodesinPairs.csproj|solutionrelative:swapnodesinpairs\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F85FF6-F8E8-4284-AB31-F9714B14CEAE}|ContainerWithMostWater\\ContainerWithMostWater.csproj|c:\\users\\ext.baisangur_yunuss\\onedrive - sgs\\desktop\\leetcode\\containerwithmostwater\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00F85FF6-F8E8-4284-AB31-F9714B14CEAE}|ContainerWithMostWater\\ContainerWithMostWater.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\containerwithmostwater\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00F85FF6-F8E8-4284-AB31-F9714B14CEAE}|ContainerWithMostWater\\ContainerWithMostWater.csproj|solutionrelative:containerwithmostwater\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3073FD38-87E0-4595-8ED3-030E63072AED}|PlusOne\\PlusOne.csproj|c:\\users\\ext.baisangur_yunuss\\onedrive - sgs\\desktop\\leetcode\\plusone\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3073FD38-87E0-4595-8ED3-030E63072AED}|PlusOne\\PlusOne.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\plusone\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3073FD38-87E0-4595-8ED3-030E63072AED}|PlusOne\\PlusOne.csproj|solutionrelative:plusone\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0561C885-A7E9-4DFF-BFE7-E30E07D3E2CD}|Console\\Console.csproj|c:\\users\\ext.baisangur_yunuss\\onedrive - sgs\\desktop\\leetcode\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0561C885-A7E9-4DFF-BFE7-E30E07D3E2CD}|Console\\Console.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0561C885-A7E9-4DFF-BFE7-E30E07D3E2CD}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{392D7B36-4AC3-48C2-B6AC-FC064399FFEB}|Zigzag Conversion\\Zigzag Conversion.csproj|c:\\users\\ext.baisangur_yunuss\\onedrive - sgs\\desktop\\leetcode\\zigzag conversion\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{392D7B36-4AC3-48C2-B6AC-FC064399FFEB}|Zigzag Conversion\\Zigzag Conversion.csproj|c:\\users\\yemeth\\desktop\\leetcode\\leetcode\\zigzag conversion\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{392D7B36-4AC3-48C2-B6AC-FC064399FFEB}|Zigzag Conversion\\Zigzag Conversion.csproj|solutionrelative:zigzag conversion\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
@@ -30,49 +74,195 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\JumpGame\\README.md",
+              "RelativeDocumentMoniker": "JumpGame\\README.md",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\JumpGame\\README.md",
+              "RelativeToolTip": "JumpGame\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-25T18:54:54.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\SwapNodesinPairs\\Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\JumpGame\\Solution.cs",
+              "RelativeDocumentMoniker": "JumpGame\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\JumpGame\\Solution.cs",
+              "RelativeToolTip": "JumpGame\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:54:45.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\SpiralMatrix\\README.md",
+              "RelativeDocumentMoniker": "SpiralMatrix\\README.md",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\SpiralMatrix\\README.md",
+              "RelativeToolTip": "SpiralMatrix\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-25T18:52:49.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\SpiralMatrix\\Solution.cs",
+              "RelativeDocumentMoniker": "SpiralMatrix\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\SpiralMatrix\\Solution.cs",
+              "RelativeToolTip": "SpiralMatrix\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:52:38.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MaxSubArray\\README.md",
+              "RelativeDocumentMoniker": "MaxSubArray\\README.md",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MaxSubArray\\README.md",
+              "RelativeToolTip": "MaxSubArray\\README.md",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-25T18:50:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MaxSubArray\\Solution.cs",
+              "RelativeDocumentMoniker": "MaxSubArray\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\MaxSubArray\\Solution.cs",
+              "RelativeToolTip": "MaxSubArray\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:50:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\CombinationSum\\README.md",
+              "RelativeDocumentMoniker": "CombinationSum\\README.md",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\CombinationSum\\README.md",
+              "RelativeToolTip": "CombinationSum\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-25T18:44:09.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\CombinationSum\\Solution.cs",
+              "RelativeDocumentMoniker": "CombinationSum\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\CombinationSum\\Solution.cs",
+              "RelativeToolTip": "CombinationSum\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:44:01.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\GenerateParenthesis\\README.md",
+              "RelativeDocumentMoniker": "GenerateParenthesis\\README.md",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\GenerateParenthesis\\README.md",
+              "RelativeToolTip": "GenerateParenthesis\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-25T18:43:36.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\GenerateParenthesis\\Solution.cs",
+              "RelativeDocumentMoniker": "GenerateParenthesis\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\GenerateParenthesis\\Solution.cs",
+              "RelativeToolTip": "GenerateParenthesis\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA3wAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:34:04.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\LetterCombinationOfAPhoneNumber\\Solution.cs",
+              "RelativeDocumentMoniker": "LetterCombinationOfAPhoneNumber\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\LetterCombinationOfAPhoneNumber\\Solution.cs",
+              "RelativeToolTip": "LetterCombinationOfAPhoneNumber\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:32:03.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\SwapNodesinPairs\\Solution.cs",
               "RelativeDocumentMoniker": "SwapNodesinPairs\\Solution.cs",
-              "ToolTip": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\SwapNodesinPairs\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\SwapNodesinPairs\\Solution.cs",
               "RelativeToolTip": "SwapNodesinPairs\\Solution.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:10:34.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\ContainerWithMostWater\\Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\ContainerWithMostWater\\Solution.cs",
               "RelativeDocumentMoniker": "ContainerWithMostWater\\Solution.cs",
-              "ToolTip": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\ContainerWithMostWater\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\ContainerWithMostWater\\Solution.cs",
               "RelativeToolTip": "ContainerWithMostWater\\Solution.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T20:07:59.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T20:07:59.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\Zigzag Conversion\\README.md",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Zigzag Conversion\\README.md",
               "RelativeDocumentMoniker": "Zigzag Conversion\\README.md",
-              "ToolTip": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\Zigzag Conversion\\README.md",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Zigzag Conversion\\README.md",
               "RelativeToolTip": "Zigzag Conversion\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
@@ -80,11 +270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\Console\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Console\\Program.cs",
               "RelativeDocumentMoniker": "Console\\Program.cs",
-              "ToolTip": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\Console\\Program.cs",
               "RelativeToolTip": "Console\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +282,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Solution.cs",
-              "DocumentMoniker": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\Solution.cs",
+              "DocumentMoniker": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\Solution.cs",
               "RelativeDocumentMoniker": "PlusOne\\Solution.cs",
-              "ToolTip": "C:\\Users\\Ext.Baisangur_Yunuss\\OneDrive - SGS\\Desktop\\LeetCode\\PlusOne\\Solution.cs",
+              "ToolTip": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\PlusOne\\Solution.cs",
               "RelativeToolTip": "PlusOne\\Solution.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAqwBgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
