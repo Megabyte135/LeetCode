@@ -1,0 +1,12 @@
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\bin\Debug\net8.0\RemoveNthNodeFromEndofList.deps.json
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\bin\Debug\net8.0\RemoveNthNodeFromEndofList.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\bin\Debug\net8.0\RemoveNthNodeFromEndofList.pdb
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\RemoveNthNodeFromEndofList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\RemoveNthNodeFromEndofList.AssemblyInfoInputs.cache
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\RemoveNthNodeFromEndofList.AssemblyInfo.cs
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\RemoveNthNodeFromEndofList.csproj.CoreCompileInputs.cache
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\RemoveNthNodeFromEndofList.sourcelink.json
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\RemoveNthNodeFromEndofList.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\refint\RemoveNthNodeFromEndofList.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\RemoveNthNodeFromEndofList.pdb
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\RemoveNthNodeFromEndofList\obj\Debug\net8.0\ref\RemoveNthNodeFromEndofList.dll

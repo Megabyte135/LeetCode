@@ -15,8 +15,6 @@ C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\refint\Consol
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.pdb
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
 C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\obj\Debug\net8.0\ref\Console.dll
-C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\PlusOne.dll
-C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\PlusOne.pdb
 C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.csproj.AssemblyReference.cache
 C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
@@ -36,3 +34,5 @@ C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\bin\Debug\ne
 C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.csproj.Up2Date
 C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
 C:\Users\Baisangur_Yunussov\OneDrive - SGS\Desktop\LeetCode\Console\obj\Debug\net8.0\ref\Console.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\ValidSudoku.dll
+C:\Users\Yemeth\Desktop\LeetCode\LeetCode\Console\bin\Debug\net8.0\ValidSudoku.pdb

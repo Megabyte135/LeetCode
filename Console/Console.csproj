@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ContainerWithMostWater\ContainerWithMostWater.csproj" />
+    <ProjectReference Include="..\ValidSudoku\ValidSudoku.csproj" />
   </ItemGroup>
 
 </Project>

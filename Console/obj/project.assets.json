@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "ContainerWithMostWater/1.0.0": {
+      "ValidSudoku/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ContainerWithMostWater.dll": {}
+          "bin/placeholder/ValidSudoku.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ContainerWithMostWater.dll": {}
+          "bin/placeholder/ValidSudoku.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ContainerWithMostWater/1.0.0": {
+    "ValidSudoku/1.0.0": {
       "type": "project",
-      "path": "../ContainerWithMostWater/ContainerWithMostWater.csproj",
-      "msbuildProject": "../ContainerWithMostWater/ContainerWithMostWater.csproj"
+      "path": "../ValidSudoku/ValidSudoku.csproj",
+      "msbuildProject": "../ValidSudoku/ValidSudoku.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ContainerWithMostWater >= 1.0.0"
+      "ValidSudoku >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
-              "projectPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\ContainerWithMostWater\\ContainerWithMostWater.csproj"
+            "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\ValidSudoku\\ValidSudoku.csproj": {
+              "projectPath": "C:\\Users\\Yemeth\\Desktop\\LeetCode\\LeetCode\\ValidSudoku\\ValidSudoku.csproj"
             }
           }
         }
